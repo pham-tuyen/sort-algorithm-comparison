@@ -9,5 +9,6 @@ This repo will show you how fast can a sort algorithm runs.
 - Selection sort
 - Shaker sort
 - Shell sort
+
 These algorithms are writed in C++ (source above).
 
