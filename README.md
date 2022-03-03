@@ -1,6 +1,6 @@
-## Sort algorithm comparison
+# Sort algorithm comparison
 This repo will show you how fast can a sort algorithm runs.
-# Sort algorithm list
+## Sort algorithm list
 - Bubble sort
 - Heap sort
 - Insertion sort
