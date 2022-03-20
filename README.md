@@ -14,7 +14,7 @@ These algorithms are writed in C++ (source above).
 The test data set is divided into 4 categories: random, ascending, descending and nearly-incremental.
 Program to generate test dataset written in Pascal (code above).
 
-##PC configuration: 
+## PC configuration: 
 - CPU: Pentium(R) Dual Core E5700 @3.00GHz, 3000MHz, 2 Cores, 2 Logical Processor (x86)
 - RAM: 2GB
 - GPU: none
